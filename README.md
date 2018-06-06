@@ -18,7 +18,7 @@ Usage
 =====
 
 ```
-usage: diskspace [-h] [-o {desc,asc}] [-s HIDE] [-a | -d DEPTH] [-t] [DIR]
+usage: sudo diskspace [-h] [-o {desc,asc}] [-s HIDE] [-a | -d DEPTH] [-t] [DIR]
 
 Analizes and reports the disk usage per folder
 
