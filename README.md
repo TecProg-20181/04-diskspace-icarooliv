@@ -6,9 +6,12 @@ directory.
 
 Install
 =======
+```pip
+pip install PyContracts
+```
 
 ```python
-sudo python setup.py install
+sudo python2 setup.py install
 ```
 
 Usage
