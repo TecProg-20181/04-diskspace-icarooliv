@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from __future__ import print_function
-from contracts import contracts
+from contracts import contract
 
 import argparse
 import os
